@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container1-fluid {
+  background-color: #023368;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+span {
+  color: #FFE522;
+}
+.navbar ul {
+
+}
+
+.navbar li a {
+  color: black;
+  margin: 10px;
+}
+
+.container2-fluid  {
+  background-color: #023368;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+.container2-fluid input {
+  width: 300px;
+}
+
+iframe {
+  max-width: 100%;
+}
